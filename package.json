@@ -1,11 +1,11 @@
 {
-  "name": "redux-simple-starte-intermediate",
+  "name": "weatherApp",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "Simple starter package for Redux with React and Babel support.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/gcurrier/weatherApp.git"
+    "url": "https://github.com/gcurrier/weatherApp.git"
   },
   "scripts": {
     "start": "webpack-dev-server --mode development",
