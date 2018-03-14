@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/StephenGrider/ReduxSimpleStarter.git"
+    "url": "git+ssh://git@github.com/gcurrier/weatherApp.git"
   },
   "scripts": {
     "start": "webpack-dev-server --mode development",
