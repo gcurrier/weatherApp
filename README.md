@@ -4,7 +4,7 @@ React and Redux demo
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
+There are two methods for getting started with React and Redux.
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
